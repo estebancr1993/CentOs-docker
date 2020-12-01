@@ -15,3 +15,7 @@
 
 - [Instalación CentOS](https://www.sololinux.es/instalar-centos-8-paso-a-paso-con-imagenes/)
 - [Comandos CentOS]()
+
+---
+
+![LICENCIA](https://github.com/estebancr1993/docker-portainer/blob/main/imagenes/Licencia-5.png)
