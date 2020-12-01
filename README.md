@@ -1,6 +1,7 @@
 # CentOS-docker
 
 ---
+![portada](https://github.com/estebancr1993/CentOs-docker/blob/main/imagenes/Docker-CentOS.jpg)
 
 ## Instalación de docker y docker-compose en CentOS.
 
