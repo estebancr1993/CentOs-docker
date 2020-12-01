@@ -7,9 +7,9 @@
 
 ## ÍNDICE
 
-  1. -[Instalación de docker en CentOS.](https://github.com/estebancr1993/CentOs-docker/blob/main/centos-docker-compose.md)
-  2. -[Instalación de docker-compose en CentOS.](https://github.com/estebancr1993/CentOs-docker/blob/main/centos-docker.md)
-  3. -[Comprobación.](https://github.com/estebancr1993/CentOs-docker/blob/main/comprobacion.md)
+  1. [Instalación de docker en CentOS.](https://github.com/estebancr1993/CentOs-docker/blob/main/centos-docker-compose.md)
+  2. [Instalación de docker-compose en CentOS.](https://github.com/estebancr1993/CentOs-docker/blob/main/centos-docker.md)
+  3. [Comprobación.](https://github.com/estebancr1993/CentOs-docker/blob/main/comprobacion.md)
 
 ## REFERENCIAS
 
