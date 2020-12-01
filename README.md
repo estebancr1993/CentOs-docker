@@ -14,7 +14,7 @@
 ## REFERENCIAS
 
 - [Instalación CentOS](https://www.sololinux.es/instalar-centos-8-paso-a-paso-con-imagenes/)
-- [Comandos CentOS](https://github.com/estebancr1993/CentOs-docker/blob/main/imagenes/comandos.jpeg)
+- [Comandos CentOS](https://github.com/estebancr1993/CentOs-docker/blob/main/comandos.md)
 - [Web oficial doc.docker](https://docs.docker.com/engine/install/centos/)
 
 ---
