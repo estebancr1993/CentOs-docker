@@ -1,5 +1,8 @@
 ## Instalación de docker en CentOs.
 
+Instalar Docker utilizando el repositorio.
+
+
 
 
 ---
