@@ -15,6 +15,7 @@
 
 - [Instalación CentOS](https://www.sololinux.es/instalar-centos-8-paso-a-paso-con-imagenes/)
 - [Comandos CentOS]()
+- [Web oficial doc.docker](https://docs.docker.com/engine/install/centos/)
 
 ---
 
