@@ -16,6 +16,7 @@
 - [Instalación CentOS](https://www.sololinux.es/instalar-centos-8-paso-a-paso-con-imagenes/)
 - [Comandos CentOS](https://github.com/estebancr1993/CentOs-docker/blob/main/comandos.md)
 - [Web oficial doc.docker](https://docs.docker.com/engine/install/centos/)
+- [Instalación Docker](https://electronicssoftware.net/como-instalar-docker-en-centos-8/)/[Instalación docker-compose](https://www.howtoforge.com/install-and-use-docker-compose-on-centos-8/)
 
 ---
 
