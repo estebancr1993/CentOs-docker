@@ -18,6 +18,10 @@ Instalar Docker utilizando el repositorio.
 
 >> ***--allowerasing*** Permite borrar los paquetes instalados para resolver las dependencias, por sí dan error con la instalación.
 
+**4º** Habilitar Docker.
+
+![8](https://github.com/estebancr1993/CentOs-docker/blob/main/imagenes/8.JPG)
+
 ---
 
 [ATRAS](https://github.com/estebancr1993/CentOs-docker)
